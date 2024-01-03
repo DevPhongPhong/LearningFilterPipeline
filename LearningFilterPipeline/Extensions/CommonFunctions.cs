@@ -1,6 +1,4 @@
-﻿namespace LearningFilterPipeline.Commons
+﻿namespace LearningFilterPipeline.Commons;
+public class CommonFunctions
 {
-    public class CommonFunctions
-    {
-    }
 }
